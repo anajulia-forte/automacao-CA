@@ -1,0 +1,22 @@
+# Credenciais e segredos
+.env
+*.env
+credentials.json
+token.json
+secrets/
+
+# Clasp (Google Apps Script CLI)
+.clasp.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (caso use clasp localmente)
+node_modules/
